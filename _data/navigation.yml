@@ -5,6 +5,11 @@
   excerpt:
   image:
 
+- title: Buy
+  url: /buy/
+  excerpt:
+  image:
+
 - title: Playgrounds
   url: https://github.com/stg-book/playgrounds
   excerpt:
